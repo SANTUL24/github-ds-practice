@@ -10,3 +10,6 @@ This repository is created for learning Git, GitHub, version control, and ML dep
 - Data Science
 - Git
 - GitHub
+## GitHub Learning
+
+This project is being used to practice Git and GitHub for Data Science and Machine Learning.
