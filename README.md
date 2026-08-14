@@ -5,7 +5,7 @@ Hands-on GitHub practice for Data Science and ML
 This repository is created for learning Git, GitHub, version control, and ML deployment.
 ## Skills
 
-- Python
+- Python - Expert
 - Machine Learning
 - Data Science
 - Git
