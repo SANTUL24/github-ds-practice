@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.venv/
+
+# Data
+*.csv
+*.xlsx
+*.parquet
+
+# Model files
+*.pkl
+*.joblib
+
+# Secrets
+.env
+
+# Jupyter
+.ipynb_checkpoints/
