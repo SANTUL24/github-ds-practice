@@ -1,7 +1,6 @@
 import pandas as pd
 
-from preprocessing import handle_missing_values
-
+from src.preprocessing import handle_missing_values
 
 def test_handle_missing_values():
     df = pd.DataFrame({
