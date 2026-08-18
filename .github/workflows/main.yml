@@ -18,5 +18,8 @@ jobs:
         with:
           python-version: "3.11"
 
-      - name: Check Python
-        run: python --version
+      - name: Install dependencies
+        run: pip install pandas pytest
+
+      - name: Run tests
+        run: pytest
