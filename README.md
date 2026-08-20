@@ -13,3 +13,6 @@ This repository is created for learning Git, GitHub, version control, and ML dep
 ## GitHub Learning
 
 This project is being used to practice Git and GitHub for Data Science and Machine Learning.
+## CI/CD
+
+This project uses GitHub Actions to automatically test Python code.
