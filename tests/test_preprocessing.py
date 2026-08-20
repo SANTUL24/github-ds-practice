@@ -10,5 +10,5 @@ def test_handle_missing_values():
 
     result = handle_missing_values(df)
 
-    assert result["income"].isna().sum() == 1
+    assert result["income"].isna().sum() == 0
     assert result["age"].isna().sum() == 0
